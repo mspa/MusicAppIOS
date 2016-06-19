@@ -1,0 +1,17 @@
+//
+//  Music_Prefix.pch
+//  MusicAppIOS
+//
+//  Created by Roman on 19/06/16.
+//  Copyright © 2016 Roman. All rights reserved.
+//
+
+#ifndef Music_Prefix_pch
+#define Music_Prefix_pch
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <CoreData/CoreData.h>
+
+#endif /* Music_Prefix_pch */
+

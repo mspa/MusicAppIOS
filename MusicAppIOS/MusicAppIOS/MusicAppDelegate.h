@@ -6,9 +6,7 @@
 //  Copyright © 2016 Roman. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface MusicAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 
